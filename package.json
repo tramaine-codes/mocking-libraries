@@ -11,7 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "@fluffy-spoon/substitute": "1.208.0",
-    "@types/node": "20.2.3",
+    "@types/node": "20.2.5",
     "@types/sinon": "10.0.15",
     "@vitest/coverage-c8": "0.31.1",
     "sinon": "15.1.0",
