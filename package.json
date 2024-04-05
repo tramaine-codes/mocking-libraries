@@ -11,13 +11,13 @@
   "license": "ISC",
   "devDependencies": {
     "@fluffy-spoon/substitute": "1.208.0",
-    "@types/node": "20.12.2",
+    "@types/node": "20.12.4",
     "@types/sinon": "17.0.3",
     "@vitest/coverage-v8": "1.4.0",
     "sinon": "17.0.1",
     "testdouble": "3.20.2",
     "ts-node": "10.9.2",
-    "typescript": "5.4.3",
+    "typescript": "5.4.4",
     "vitest": "1.4.0"
   }
 }
