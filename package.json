@@ -1,14 +1,5 @@
 {
-  "name": "mocking-libraries",
-  "version": "0.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "vitest run",
-    "test:watch": "vitest"
-  },
   "author": "Tramaine L. Gillus",
-  "license": "ISC",
   "devDependencies": {
     "@fluffy-spoon/substitute": "1.208.0",
     "@types/node": "20.13.0",
@@ -19,5 +10,13 @@
     "ts-node": "10.9.2",
     "typescript": "5.4.5",
     "vitest": "1.6.0"
-  }
+  },
+  "license": "ISC",
+  "name": "mocking-libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "version": "0.0.0"
 }

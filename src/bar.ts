@@ -1,9 +1,5 @@
 export class Bar {
-  bar() {
-    return 'bar';
-  }
+	bar = () => "bar";
 
-  baz({ bar }: { bar: string }, log: typeof console.log) {
-    log(bar);
-  }
+	baz = ({ bar }: { bar: string }, log: typeof console.log) => log(bar);
 }
