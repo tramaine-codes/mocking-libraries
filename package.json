@@ -2,7 +2,7 @@
   "author": "Tramaine L. Gillus",
   "devDependencies": {
     "@fluffy-spoon/substitute": "1.208.0",
-    "@types/node": "20.13.0",
+    "@types/node": "20.14.2",
     "@types/sinon": "17.0.3",
     "@vitest/coverage-v8": "1.6.0",
     "sinon": "18.0.0",
