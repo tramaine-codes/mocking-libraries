@@ -2,14 +2,14 @@
   "author": "Tramaine L. Gillus",
   "devDependencies": {
     "@fluffy-spoon/substitute": "1.208.0",
-    "@types/node": "22.18.10",
-    "@types/sinon": "17.0.4",
-    "@vitest/coverage-v8": "3.2.4",
-    "sinon": "21.0.0",
+    "@types/node": "24.10.7",
+    "@types/sinon": "21.0.0",
+    "@vitest/coverage-v8": "4.0.16",
+    "sinon": "21.0.1",
     "testdouble": "3.20.2",
-    "tsx": "4.20.6",
+    "tsx": "4.21.0",
     "typescript": "5.9.3",
-    "vitest": "3.2.4"
+    "vitest": "4.0.16"
   },
   "license": "ISC",
   "name": "mocking-libraries",
